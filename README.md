@@ -1,7 +1,3 @@
-# React-Project-for-Meta
-Capstone Project to the Course Meta Front-end Developer
-
-
 # Little-Lemon Restaurant
 
 ## Capstone project for Meta front-end developer professional certificate.
@@ -13,3 +9,4 @@ Capstone Project to the Course Meta Front-end Developer
 - After the node_modules have been installed run "npm start"
 
 #### _This project is built on ReactJS and React styled component_
+
